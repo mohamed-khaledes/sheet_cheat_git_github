@@ -124,7 +124,11 @@
 
 
 
-
+// # to rename the remote origin 
+-git remote rm origin
+-git remote add origin (new url)
+or 
+git remote set-url origin (new url)
 
 
 
